@@ -4,9 +4,37 @@
 
 # osTicket - Ticket Lifecycle: Intake Through Resolution
 
-This tutorial demonstrates the **lifecycle of a ticket** in osTicket, from intake to resolution.  
+**Overview**
 
-It shows how tickets move through the system and how agents interact with them.
+This project demonstrates the complete lifecycle of a help desk ticket in osTicket, from initial user submission through troubleshooting, communication, and final resolution. The lab mirrors real-world IT support workflows and agent responsibilities.
+
+This project builds on my OS Ticket installation and post-installation configuration labs.
+
+**Objective**
+
+Simulate a realistic help desk environment by managing tickets through each stage of the support lifecycle, including intake, assignment, communication, troubleshooting, and closure.
+
+**What This Lab Covers**
+
+- Ticket creation from an end-user perspective
+
+- Assignment to agents or teams
+
+- Agent-user communication and status updates
+
+- Troubleshooting and documentation within tickets
+
+- Resolution and ticket closure
+
+**Ticket Lifecycle Stages**
+
+**1. Intake** – Ticket created by an end user
+
+**2. Assignment & Communication** – Ticket assigned to an agent or team; initial response provided
+
+**3. Working the Issue** – Troubleshooting steps documented and updates communicated
+
+**4. Resolution** – Issue resolved and ticket closed
 
 ---
 
@@ -17,15 +45,6 @@ It shows how tickets move through the system and how agents interact with them.
 - **Internet Information Services (IIS)**  
 
 **Operating System:** Windows 10 (21H2)
-
----
-
-## Ticket Lifecycle Stages
-
-1. **Intake** – Ticket creation by user  
-2. **Assignment and Communication** – Ticket assigned to agent/team and initial communication  
-3. **Working the Issue** – Agents troubleshoot and update the ticket  
-4. **Resolution** – Ticket is resolved and closed  
 
 ---
 
